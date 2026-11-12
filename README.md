@@ -1,6 +1,6 @@
 # Cybersecurity Risk Assessment & Information Security Policy
 
-A portfolio-ready GRC case study applying the **NIST Cybersecurity Framework (CSF)** to a fictional manufacturing company.
+A simulated GRC case study applying the **NIST Cybersecurity Framework (CSF)** to a fictional manufacturing company.
 
 > **Project type:** Masters module coursework project
 > **Focus areas:** Governance, risk assessment, risk treatment, security policy, third-party risk 
