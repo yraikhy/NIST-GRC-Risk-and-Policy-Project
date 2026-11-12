@@ -32,10 +32,10 @@ These ratings reflect the qualitative conclusions in the original case-study rep
 
 ## Deliverables
 
-- [`methodology-and-risk-analysis.md`](docs/methodology-and-risk-analysis.md) — assessment approach, scope, assumptions, and risk-prioritisation rationale.
+- [`methodology-and-risk-analysis.md`](methodology-and-risk-analysis.md) — assessment approach, scope, assumptions, and risk-prioritisation rationale.
 - [`risk-register.csv`](risk-register.csv) — concise portfolio risk register.
-- [`attack-trees.md`](docs/attack-trees.md) — attack-tree diagrams for the three priority scenarios.
-- [`information-security-policy.md`](docs/information-security-policy.md) — policy recommendations structured around the NIST CSF functions.
+- [`attack-trees.md`](attack-trees.md) — attack-tree diagrams for the three priority scenarios.
+- [`information-security-policy.md`](information-security-policy.md) — policy recommendations structured around the NIST CSF functions.
 
 ## Personal contribution
 
