@@ -32,10 +32,10 @@ These ratings reflect the qualitative conclusions in the original case-study rep
 
 ## Deliverables
 
-- [`docs/methodology-and-risk-analysis.md`](docs/methodology-and-risk-analysis.md) — assessment approach, scope, assumptions, and risk-prioritisation rationale.
+- [`methodology-and-risk-analysis.md`](docs/methodology-and-risk-analysis.md) — assessment approach, scope, assumptions, and risk-prioritisation rationale.
 - [`risk-register.csv`](risk-register.csv) — concise portfolio risk register.
-- [`docs/attack-trees.md`](docs/attack-trees.md) — attack-tree diagrams for the three priority scenarios.
-- [`docs/information-security-policy.md`](docs/information-security-policy.md) — policy recommendations structured around the NIST CSF functions.
+- [`attack-trees.md`](docs/attack-trees.md) — attack-tree diagrams for the three priority scenarios.
+- [`information-security-policy.md`](docs/information-security-policy.md) — policy recommendations structured around the NIST CSF functions.
 
 ## Personal contribution
 
@@ -45,7 +45,7 @@ In the original group assignment, my main contributions were:
 - Drafting the information security policy across the five NIST CSF functions.
 - Contributing to the qualitative risk analysis and discussion of risk priorities.
 
-This repository is a reorganised portfolio presentation of the group case study, not a claim that the original work was completed individually.
+This repository is a reorganised portfolio presentation of the group project, not a claim that the original work was completed individually.
 
 ## How to explore the project
 
